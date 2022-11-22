@@ -1,0 +1,1 @@
+cv2.imwrite("images/depthTop.jpg", output)
